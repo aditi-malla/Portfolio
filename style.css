@@ -2,7 +2,7 @@
     height: 500px;
     width: 100%;
     /* background-color: rgb(102, 99, 99); */
-    background-image: url('/bg-nav.jpeg');
+    background-image: url('bg-nav.jpeg');
     background-size: cover;
 
 }
@@ -61,7 +61,7 @@
     text-align:center;
     /* display: inline block; */
     /* margin-top: 10px; */
-    background-image: url(/bg1.jpg);
+    background-image: url(bg1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -102,7 +102,7 @@
 
 
 .services {
-    background-image: url(/bg.jpeg);
+    background-image: url(bg.jpeg);
     width: 100%;
     background-size: cover;
     background-position: center;
